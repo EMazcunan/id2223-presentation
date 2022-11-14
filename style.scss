@@ -1,0 +1,14 @@
+/*-- scss:defaults --*/
+
+$body-bg: #191919;
+$body-color: #fff;
+$link-color: #42affa;
+
+/*-- scss:rules --*/
+
+.reveal .vspace::before {
+  display: block;
+  content: "x";
+  visibility: hidden;
+  line-height: 1ex;
+}

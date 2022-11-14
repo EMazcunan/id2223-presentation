@@ -1,0 +1,271 @@
+---
+title: Innovación Docente e Iniciación a la Investigación Educativa 
+subtitle: MATEMÁTICAS <br> Presentación de la Parte Específica
+author: Eva María Mazcuñán Navarro
+lang: es
+format: 
+    revealjs:
+        theme: [dark, style.scss]
+        incremental: true
+        #toc: true
+        #toc-depth: 1
+        #toc-title: "Índice"
+        title-slide-attributes:
+            data-background-image: "images/notebook-b.png"
+            data-background-size: "300px"
+            data-background-position: 97% 97%
+            link-external-icon: true
+        link-external-icon: true    
+        link-external-newwindow: true   
+---
+
+
+# Resumen
+
+
+:::: {layout="[[13,85],[13,85], [13,85], [13, 85]]" layout-valign="top"}
+
+![](images/notebook.png){.fragment fragment-index=1 }
+
+[Herramientas para la innovación docente en **matemáticas**]{.fragment fragment-index=1 }
+
+![](images/computer.png){.fragment fragment-index=2 } 
+
+[Talleres prácticos con ordenador]{.fragment fragment-index=2 }
+
+
+![](images/grade2.png){.fragment fragment-index=3 }
+
+
+[Evaluación integrada en las clases]{.fragment fragment-index=3 }
+-
+- [Entrega de material para determinadas prácticas]{style="font-size:smaller"}
+- [Se comienza en clase y se acuerda un plazo de entrega]{style="font-size:smaller;font-weight:900;"}
+
+::::
+
+
+
+# Índice {.unlisted}
+
+::: {layout="[[-10,50,50],[-10,50,50]]"}
+[Horario](#sec-horario){style="font-size:larger;"}
+
+[Profesorado](#sec-profesorado){style="font-size:larger;"}
+
+[Contenidos](#sec-contenidos){style="font-size:larger;"}
+
+[Evaluación](#sec-evaluacion){style="font-size:larger;"}
+:::
+
+# Horario
+
+
+:::: {.fragment fragment-index=1 layout="[[15,85]]" .nonincremental}
+![](images/clock.png)
+
+- Lunes de 18:30 a 20:00
+- Martes de 17:00 a 18:30
+::::
+
+::: {layout="[[15,85]]" .fragment fragment-index=2 }
+![](images/calendar.png)
+
+Del 14 de noviembre de 2022 al 20 de enero de 2023 <br> $\quad\rightarrow$ 15 sesiones
+:::
+
+
+# Profesorado
+
+::: {layout="[[-5,20,75,-5]]" }
+
+![](images/academic.png)
+
+- Andrés Sáez Schwedt
+    - 2 sesiones
+- Eva María Mazcuñán Navarro
+    - 3 sesiones
+- Augusto César González Robles
+    - 10 sesiones
+
+:::    
+
+# Contenidos {#sec-contenidos}
+
+![](images/notebook-b.png){style="float:right;width:200px;"}
+
+## LaTeX [[latex-project.org](https://www.latex-project.org/)]{style="float:right;"}
+
+<!-- Sistema tipográfico de alta calidad para la producción de textos científicos, con expresiones matemáticas. -->
+
+:::: {.columns}
+:::{.column width="3%"}
+:::
+:::{.column width="45%" style="color:black;background-color:white;border:5px solid white;border-radius:5px;width:45%"}
+$$
+    \int_{-\infty}^{+\infty} e^{-x^2}\; dx = \sqrt{\pi}
+$$
+:::
+
+:::{.column width="4%"}
+:::
+
+:::{.column width="35%" style="color:black;background-color:white;border:5px solid white;border-radius:5px;;width:35%;"}
+$$
+A = \begin{pmatrix} 
+        1 & 0 \\
+        2 & 1
+    \end{pmatrix}
+$$
+:::
+:::{.column width="3%"}
+:::
+::::
+
+[]{.vspace}
+
+:::{style="width:15%;display:inline-block;"}
+:::
+:::{style="color:black;background-color:white;border:10px solid white;border-radius:5px;width:60%;text-align:center;display:inline-block;"}
+$$
+\begin{array}{c}
+	ax^2+ bx +c =0\\
+	\Downarrow\\
+	x = \dfrac{-b\pm \sqrt{b^2-4ac}}{2a}
+\end{array}
+$$
+:::
+:::{style="width:15%;display:inline-block;"}
+:::
+
+
+
+
+
+## Quarto [[quarto.org](https://quarto.org)]{style="float:right;"}
+
+[]{.vspace}
+
+![](images/qmd-how-it-works-simple.png){fig-align="center"}
+
+[]{.vspace}
+
+- Un mismo documento fuente genera variedad de formatos (PDF, HTML ...)
+- Sintaxis sencilla (`.qmd` = *Quarto Markdown*)
+
+## Geogebra  [[geogebra.org](https://www.geogebra.org)]{style="float:right;"}
+
+
+![](images/geogebra.png){fig-align="center"}
+
+
+
+## Quizizz [[quizizz.com](https://quizizz.com)]{style="float:right;"} 
+
+[]{.vspace}
+
+::: {layout="[[40,60]]"}
+![](images/quizizz.jpg)
+
+- Cuestionarios interactivos que los alumnos responden desde cualquier dispositivo con navegador
+- Comprobar comprensión, repaso ...
+- Informes de todos los cuestionarios realizados
+:::
+
+
+## Edpuzzle [[edpuzzle.com](https://edpuzzle.com)]{style="float:right;"} 
+
+
+[]{.vspace}
+
+::::: {.columns}
+:::: {.column width="40%"}
+Convertir un vídeo en una vídeo-lección
+
+:::{style="font-size:smaller;"}
+- Añadir preguntas
+- Añadir notas de voz o doblar
+- Recortar
+:::
+::::
+
+:::: {.column width="60%"}
+![](images/Edpuzzle-editor.png)
+::::
+
+:::::
+
+
+
+# Evaluación {#sec-evaluacion}
+
+![](images/grade1.png){style="float:right;width:200px;"}
+
+## Evaluación - Porcentajes 
+
+[]{.vspace}
+
+```{python}
+import matplotlib.pyplot as plt 
+# Pie chart, where the slices will be ordered and plotted counter-clockwise:
+labels = 'PARTE GENÉRICA \n Investigación Educativa', 'PARTE GENÉRICA \n Investigación Educativa', 'PARTE ESPECÍFICA'
+sizes = [25, 25, 50]
+explode = (0, 0, 0.1)  # only "explode" the 2nd slice (i.e. 'Hogs')
+
+fig1, ax1 = plt.subplots()
+_, _, autopcts = ax1.pie(
+    sizes, 
+    colors= ['tab:green', 'tab:blue', 'tab:orange'], 
+    explode=explode, 
+    labels=labels, 
+    autopct='%1.0f%%',
+    shadow=False, 
+    startangle=90, 
+    textprops = dict(color = 'white', size=25)
+)
+ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+fig1.patch.set_alpha(0)
+
+plt.setp(autopcts, **{'color':'white', 'weight':'bold', 'fontsize':25})
+
+plt.show()
+```
+
+
+## Evaluación - Metodología
+
+[]{.vspace}
+
+Integrada en las clases
+
+::: {layout="[[20,80],[100]]"}
+![](images/assignment.png)
+
+- Entrega de material para determinadas prácticas
+- Se comienza en clase y se acuerda un plazo de entrega
+:::
+
+
+
+
+## Evaluación - Entregas
+
+[]{.vspace}
+
+Tópico | Puntuación
+-------|------
+LaTeX y Quarto | 2.5 puntos 
+Geogebra | 2.5 puntos
+
+# [¡GRACIAS!]{style="text-align:center;display:block"} {.unlisted .centered}
+
+![](images/heart.png){fig-align="center" height="100px"}
+
+::: {layout="[-1,1,-1]".nonincremental}
+- Preguntas
+- Opiniones
+- Sugerencias
+- ...
+:::
+
+

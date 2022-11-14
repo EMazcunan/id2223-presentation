@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160.6516mm"
+   height="147.38179mm"
+   viewBox="0 0 160.6516 147.38179"
+   version="1.1"
+   id="svg4541"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="calendar.svg">
+  <defs
+     id="defs4535" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="345.02215"
+     inkscape:cy="64.231505"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="760"
+     inkscape:window-height="403"
+     inkscape:window-x="867"
+     inkscape:window-y="184"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4538">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.546224,-18.446127)">
+    <g
+       id="g4557"
+       style="fill:#eeb72b;fill-opacity:1;stroke-width:0.0696698"
+       class="color1"
+       transform="matrix(3.6239927,0,0,3.9796833,14.546224,18.301059)"
+       inkscape:transform-center-x="-828.3412"
+       inkscape:transform-center-y="1398.5746"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         id="circle4543"
+         r="3.48"
+         cy="17.040001"
+         cx="22.17"
+         style="fill:#eeb72b;fill-opacity:1;stroke-width:0.0696698" />
+      <circle
+         id="circle4545"
+         r="3.48"
+         cy="27.52"
+         cx="32.639999"
+         style="fill:#eeb72b;fill-opacity:1;stroke-width:0.0696698" />
+      <circle
+         id="circle4547"
+         r="3.48"
+         cy="17.040001"
+         cx="32.639999"
+         style="fill:#eeb72b;fill-opacity:1;stroke-width:0.0696698" />
+      <circle
+         id="circle4549"
+         r="3.48"
+         cy="17.040001"
+         cx="11.69"
+         style="fill:#eeb72b;fill-opacity:1;stroke-width:0.0696698" />
+      <circle
+         id="circle4551"
+         r="3.48"
+         cy="27.52"
+         cx="11.69"
+         style="fill:#eeb72b;fill-opacity:1;stroke-width:0.0696698" />
+      <circle
+         id="circle4553"
+         r="3.48"
+         cy="27.52"
+         cx="22.17"
+         style="fill:#eeb72b;fill-opacity:1;stroke-width:0.0696698" />
+      <path
+         id="path4555"
+         d="m 40.33,2.54 h -4.87 a 2.84,2.84 0 0 0 -5.64,0 H 25 a 2.84,2.84 0 0 0 -5.64,0 h -4.85 a 2.84,2.84 0 0 0 -5.64,0 H 4 a 4,4 0 0 0 -4,4 v 26.53 a 4,4 0 0 0 4,4 h 36.33 a 4,4 0 0 0 4,-4 V 6.54 a 4,4 0 0 0 -4,-4 z m -8.54,0.29 a 0.85,0.85 0 0 1 1.7,0 v 1.4 a 0.85,0.85 0 1 1 -1.7,0 z m -10.47,0 a 0.85,0.85 0 0 1 1.7,0 v 1.4 a 0.85,0.85 0 1 1 -1.7,0 z m -10.47,0 a 0.85,0.85 0 1 1 1.7,0 v 1.4 a 0.85,0.85 0 1 1 -1.7,0 z m 31.48,30.24 a 2,2 0 0 1 -2,2 H 4 a 2,2 0 0 1 -2,-2 v -23 h 40.33 z"
+         inkscape:connector-curvature="0"
+         style="fill:#eeb72b;fill-opacity:1;stroke-width:0.0696698" />
+    </g>
+  </g>
+</svg>
